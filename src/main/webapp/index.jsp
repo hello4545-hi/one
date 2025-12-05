@@ -16,6 +16,10 @@
             <ul>
               
                 <li><a href="#clothes">Clothes</a></li>
+ <li><a href="#clothes">Clothes123</a></li>
+ <li><a href="#clothes">Clothes123</a></li>
+ <li><a href="#clothes">Clothes123</a></li>
+
     <li><a href="#clothes">Clothes</a></li>
     <li><a href="#clothes">Clothes</a></li>
     <li><a href="#clothes">Clothes</a></li>
