@@ -20,6 +20,10 @@
  <li><a href="#clothes">Clothes123</a></li>
  <li><a href="#clothes">Clothes123</a></li>
 
+ <li><a href="#clothes">shoes</a></li>
+
+ <li><a href="#clothes">clothes</a></li>
+
     <li><a href="#clothes">Clothes</a></li>
     <li><a href="#clothes">Clothes</a></li>
     <li><a href="#clothes">Clothes</a></li>
