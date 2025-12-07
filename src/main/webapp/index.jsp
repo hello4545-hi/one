@@ -18,8 +18,9 @@
                 <li><a href="#clothes">Clothes</a></li>
  
 
- <li><a href="#clothes">shoes</a></li>
-
+<li><a href="#clothes">shoes</a></li>
+<li><a href="#clothes">devops</a></li>
+<li><a href="#clothes">aws</a></li>
  <li><a href="#clothes">clothes</a></li>
 
     <li><a href="#clothes">Clothes</a></li>
