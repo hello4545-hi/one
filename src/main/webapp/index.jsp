@@ -6,7 +6,7 @@
     <title>ShopEasy - Your One-Stop Online Store</title>
     <link rel="stylesheet" href="style.css"> <!-- Bug: Incorrect file name (should be styles.css) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/font-awesome.min.css"> <!-- Bug: Wrong file name for Font Awesome -->
-</head>
+
 <body>
     <header>
         <div class="logo">
