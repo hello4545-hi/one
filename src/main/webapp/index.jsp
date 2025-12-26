@@ -1,9 +1,9 @@
-
+<!Doctype>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width"> <!-- Bug: Missing initial-scale=1.0 -->
-   
+   <title> devops </devops>
     <link rel="stylesheet" href="style.css"> <!-- Bug: Incorrect file name (should be styles.css) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/font-awesome.min.css"> <!-- Bug: Wrong file name for Font Awesome -->
 
