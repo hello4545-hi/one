@@ -20,6 +20,7 @@
         </div>
 
         <nav>
+
             <ul>
                 <li><a href="#clothes">Clothes</a></li>
                 <li><a href="#clothes">Shoes</a></li>
